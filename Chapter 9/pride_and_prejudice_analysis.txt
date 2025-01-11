@@ -1,0 +1,40 @@
+Book Analysis Results
+======================
+Total Word Count: 72765
+Total Character Count: 319724
+Average Word Length: 4.39
+Average Sentence Length: 17.53 words
+
+Top 10 Longest Words:
+misrepresentation
+disinterestedness
+incomprehensible
+superciliousness
+acknowledgments
+conscientiously
+accomplishments
+superintendence
+_conditionally_
+uncompanionable
+
+Word Frequency Distribution (Top 20):
+the: 2667
+to: 2408
+of: 2245
+and: 2174
+her: 1225
+i: 1220
+a: 1203
+in: 1140
+was: 1008
+she: 953
+that: 899
+it: 881
+not: 880
+you: 791
+he: 770
+his: 743
+be: 687
+as: 661
+with: 656
+had: 628

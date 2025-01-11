@@ -1,0 +1,18 @@
+{
+    "students": [
+        {
+            "first_name": "John",
+            "last_name": "Stuart",
+            "exam1": 3.5,
+            "exam2": 8.9,
+            "exam3": 9.5
+        },
+        {
+            "first_name": "Edward",
+            "last_name": "Armystrong",
+            "exam1": 5.9,
+            "exam2": 3.5,
+            "exam3": 10.0
+        }
+    ]
+}
